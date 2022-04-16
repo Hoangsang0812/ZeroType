@@ -38,7 +38,7 @@ include('header.php');
                             </div>
                             <div class="title-author-post">
                                 <div class="title-post">
-                                    <h4>'.$listBL["title"].'</h4>
+                                    <h5>'.$listBL["title"].'</h5>
                                 </div>
                                 <div class="author-post">
                                     <span class="author">Tác giả: '.$listBL["author"].'</span>
