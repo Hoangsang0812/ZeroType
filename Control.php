@@ -335,6 +335,12 @@ Class Data{
 			$run= mysqli_fetch_array(mysqli_query($conn,$sql));
 			return $run;
 		}
+		public function delete_blog($id) {
+			global $conn;
+			$sql = "DELETE FROM blog WHERE category_id = '$id'";
+			$result = mysqli_query($conn, $sql);
+			return $result;
+		}
 
 	}
  ?>

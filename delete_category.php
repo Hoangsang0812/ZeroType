@@ -1,6 +1,7 @@
 <?php
 include ("Control.php");    
 $delete_Post = new Data();
+$run=$delete_Post->delete_blog($_GET["id"]);
 $delete = $delete_Post->delete_category($_GET["id"]);
 
 if ($delete) {
