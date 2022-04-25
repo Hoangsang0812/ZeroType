@@ -32,19 +32,19 @@ $get_Data = new Data();
                     <h1>Contact Me</h1>
                     <div class="userName">
                         <i class="fa fa-user" aria-hidden="true"></i><span>User Name</span><br>
-                        <p>Dương Ngô Tùng</p>
+                        <p>Hoàng Minh Sang</p>
                     </div>
                     <div class="userName">
                         <i class="fa fa-envelope" aria-hidden="true"></i><span>Email</span>
-                        <p>dntung2409@gmail.com</p>
+                        <p>hoangminhsang08121999@gmail.com</p>
                     </div>
                     <div class="userName">
                         <i class="fa fa-phone" aria-hidden="true"></i><span>Number Phone</span>
-                        <p>+84971985730</p>
+                        <p>+84365913659</p>
                     </div>
                     <div class="userName">
                         <i class="fa fa-map-marker" aria-hidden="true"></i><span>Address</span>
-                        <p>Hoàng Thanh - Hiệp Hòa - Bắc Giang</p>
+                        <p>Dào San - Phong Thổ - Lai Châu</p>
                     </div>
                 </div>
                 <div class="contact-us">
